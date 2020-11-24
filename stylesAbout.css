@@ -1,0 +1,117 @@
+html {
+    font-size: 18px;
+}
+
+.row {
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar {
+    background-color: #2196F5;
+}
+
+.navbar-brand {
+    color: white;
+    font: Roboto;
+}
+
+.nav-link {
+    color: white;
+    font: Overlook;
+    font-size: 18px;
+}
+
+.btn {
+    border-color: white;
+    border-width: 1px;
+    color: white;
+}
+
+.btn:hover {
+    border-color: #1976D2;
+    border-width: 1px;
+    background-color: #1976D2;
+}
+
+.main {
+    margin-top: 3%;
+}
+
+
+
+.pic_container {
+    width: 100%;
+    height: 85vh;
+}
+
+
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+h1 {
+    font-size: 7rem;
+}
+
+.card {
+    width: 90%;
+    /* text-align: center; */
+}
+
+h2 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+h3 {
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.sub {
+    align-self: center;
+    width: 90%;
+}
+
+h4 {
+    text-align: center;
+}
+
+.img-container {
+    width: 100%;
+    text-align: center;
+}
+
+.card-img-bottom {
+    width: 50%;
+    align-self: center;
+}
+
+.btn-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+}
+
+.btn-primary {
+    height: 3rem;
+    background-color: #2196F5;
+}
+
+button a {
+    text-decoration: none !important;
+    color: white !important;
+}
+
+.card {
+    width: 90%;
+    line-height: 2rem;
+    margin-top: 3%;
+    border: none;
+}
+

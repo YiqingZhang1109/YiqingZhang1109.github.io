@@ -1,0 +1,70 @@
+.navbar {
+    background-color: #2196F5 !important;
+}
+
+.navbar-brand {
+    color: white;
+    font: Roboto;
+}
+
+.nav-link {
+    font: Overlook;
+    font-size: 18px;
+    color: white !important;
+}
+
+.nav-link:hover {
+    font-weight: bold !important;
+}
+
+nav .btn {
+    border-color: white;
+    border-width: 1px;
+    color: white;
+}
+
+nav .btn:hover {
+    border-color: #1976D2;
+    border-width: 1px;
+    background-color: #1976D2;
+}
+
+.content{
+    margin-top: 100px;
+}
+
+.row1 p{
+    font-size: 4em;
+    text-align: center;
+
+}
+
+.card {
+    background-color: rgba(255, 255, 255, 0.459);
+}
+
+p{
+    font-size: 18px;
+}
+
+.card:hover{
+    box-shadow: turquoise 10px;
+}
+
+body {
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}

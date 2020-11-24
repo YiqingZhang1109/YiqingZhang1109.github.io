@@ -1,0 +1,72 @@
+.navbar {
+    background-color: #2196F5 !important;
+}
+
+.navbar-brand {
+    color: white;
+    font: Roboto;
+}
+
+.nav-link {
+    font: Overlook;
+    font-size: 18px;
+    color: white !important;
+}
+
+.nav-link:hover {
+    font-weight: bold !important;
+}
+
+nav .btn {
+    border-color: white;
+    border-width: 1px;
+    color: white;
+}
+
+nav .btn:hover {
+    border-color: #1976D2;
+    border-width: 1px;
+    background-color: #1976D2;
+}
+
+.content {
+    margin-top: 50px;
+}
+
+.card {
+    box-shadow: 10px;
+    
+}
+
+
+img:hover{
+    
+    box-shadow: 10px;
+    
+}
+
+p{
+    font-size: 18px;
+}
+
+h4{
+    font-weight: bolder;
+}
+
+.btn {
+    border-color: white;
+    border-width: 1px;
+    color: white;
+    background-color: #2196F5;
+}
+
+.btn:hover {
+    border-color: #1976D2;
+    border-width: 1px;
+    background-color: #1976D2;
+}
+
+button a {
+    text-decoration: none !important;
+    color: white !important;
+}

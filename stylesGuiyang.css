@@ -1,0 +1,98 @@
+html {
+    font-size: 18px;
+}
+
+.row {
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar {
+    background-color: #2196F5 !important;
+}
+
+.navbar-brand {
+    color: white;
+    font: Roboto;
+}
+
+.nav-link {
+    font: Overlook;
+    font-size: 18px;
+    color: white !important;
+}
+
+.nav-link:hover {
+    font-weight: bold !important;
+}
+
+.btn {
+    border-color: white;
+    border-width: 1px;
+    color: white;
+}
+
+.btn:hover {
+    border-color: #1976D2;
+    border-width: 1px;
+    background-color: #1976D2;
+}
+
+
+.card {
+    width: 90%;
+    line-height: 2rem;
+    margin-top: 3%;
+    border: none;
+}
+
+.first {
+    margin-top: 12%;
+}
+
+.second {
+    margin-top: 8%;
+}
+
+.img-container {
+    width: 100%;
+    text-align: center;
+}
+
+img {
+    width: 60%;
+    
+}
+
+p {
+    margin-top: 1rem;
+    font-family: 'PT Serif', serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    margin-top: 3%;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: 'PT Serif Caption', serif;
+    font-weight: bold;
+}
+
+h3 {
+    margin-top: 2%;
+    font-size: 1.2rem;
+    font-family: 'PT Serif', serif;
+    font-weight: bold;
+}
+
+.end {
+    font-family: 'Nerko One', cursive;
+    font-size: 2.5rem;
+    text-align: center;
+    margin-top: 3rem;
+}
